@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tanθ
 - 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning Python and HTML
+- 📚 I am in Class 10th
 
 <!---
 TanX4503/TanX4503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
