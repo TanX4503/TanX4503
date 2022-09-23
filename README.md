@@ -1,7 +1,7 @@
-Hi, TanX this side, just an amateur programmer living at 127.0.0.1
-Languages I code in:
-- Python
-- HTML
+- Hi, TanX this side, just an amateur programmer living at 127.0.0.1
+- Languages I code in:
+   - Python
+   - HTML
 Check out some codes I made in my free time over here
 
 <!---
