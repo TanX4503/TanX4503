@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Tanθ
-- 👀 I’m interested in Web and Game Development
-- 🌱 I’m currently learning Python and HTML
-- 📚 I am in Class 10th
+Hi, TanX this side, just an amateur programmer living at 127.0.0.1
+Languages I code in:
+- Python
+- HTML
+Check out some codes I made in my free time over here
 
 <!---
 TanX4503/TanX4503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
